@@ -1,16 +1,19 @@
-### Hi there 👋
+# Thomas Bradford
+I serve medium-to-large organizations through the scale-up phase of growth. I value people, culture, collaboration, customers, code, and processes. In that order. I code in whatever language best suits the job, but mostly in Go.
 
-<!--
-**kode4food/kode4food** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Location
+Berlin, Germany
 
-Here are some ideas to get you started:
+### Current Status
+Chief Technology Officer at [CANDIS](http://www.candis.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Active Projects
+[Ale](https://www.ale-lang.org/): A Lisp Environment (Written in [Go](http://golang.org/))<br/>
+[Caravan](https://www.github.com/kode4food/caravan): Event Streaming in [Go](http://golang.org/)
+
+### Contact
+Email: thom at kode4food it<br/>
+LinkedIn.com/[kode4food](https://www.linkedin.com/in/kode4food/)<br/>
+Soundcloud.com/[kode4food](https://www.soundcloud.com/kode4food/)<br/>
+Twitter.com/[kode4food](https://www.twitter.com/kode4food/)<br/>
+Facebook.com/[kode4food](https://www.facebook.com/kode4food/)
