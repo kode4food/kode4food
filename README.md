@@ -12,7 +12,6 @@ Chief Technology Officer at [CANDIS](http://www.candis.io/)
 
 ### Other Ways To Contact Me
 Email: thom at kode4food it<br/>
-[www.kode4food.it](https://www.kode4food.it)<br/>
 LinkedIn.com/[kode4food](https://www.linkedin.com/in/kode4food/)<br/>
 Soundcloud.com/[kode4food](https://www.soundcloud.com/kode4food/)<br/>
 Twitter.com/[kode4food](https://www.twitter.com/kode4food/)
