@@ -1,4 +1,3 @@
-# Thomas Bradford
 I serve medium-to-large organizations through the scale-up phase of growth. I value people, culture, collaboration, customers, code, and processes. In that order. I code in whatever language best suits the job, but mostly in Go.
 
 ### Location
@@ -15,5 +14,4 @@ Chief Technology Officer at [CANDIS](http://www.candis.io/)
 Email: thom at kode4food it<br/>
 LinkedIn.com/[kode4food](https://www.linkedin.com/in/kode4food/)<br/>
 Soundcloud.com/[kode4food](https://www.soundcloud.com/kode4food/)<br/>
-Twitter.com/[kode4food](https://www.twitter.com/kode4food/)<br/>
 Facebook.com/[kode4food](https://www.facebook.com/kode4food/)
