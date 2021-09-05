@@ -11,10 +11,6 @@
     <td valign="top">Berlin, Germany</td>
   </tr>
   <tr>
-    <td nowrap valign="top" align="right"><b>Status</b></td>
-    <td valign="top">Chief Technology Officer at <a href="http://www.candis.io/">CANDIS</a></td>
-  </tr>
-  <tr>
     <td nowrap valign="top" align="right"><b>Projects</b></td>
     <td valign="top">
       <a href="https://www.ale-lang.org/">Ale</a>: A Lisp Environment (Written in <a href="http://golang.org/">Go</a>)<br/>
