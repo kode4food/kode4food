@@ -8,7 +8,7 @@
   </tr>  
   <tr>
     <td nowrap valign="top" align="right"><b>Location</b></td>
-    <td valign="top">Berlin, Germany</td>
+    <td valign="top">Zürich, Switzerland</td>
   </tr>
   <tr>
     <td nowrap valign="top" align="right"><b>Projects</b></td>
