@@ -1,7 +1,7 @@
 <table cellpadding="0" cellspacing="5">
   <tr>
     <td nowrap valign="top" align="right" rowspan="2"><b>About</b></td>
-    <td valign="top">Bostonian, Coder, Devout Believer in Uncertainty, Drinker of Wine, Eater of Food, Hater of Cats, Musician, Sorter</td>
+    <td valign="top">Bostonian, Coder, Devout Believer in Uncertainty, Drinker of Wine, Eater of Food, Hater of Cats, Lefty, Musician, Sorter</td>
   </tr>
   <tr>
     <td valign="top">I serve medium-to-large organizations through the scale-up phase of growth. I value people, culture, collaboration, customers, code, and processes. In that order. I code in whatever language best suits the job, but mostly in Go.</td>
