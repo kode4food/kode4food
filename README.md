@@ -22,7 +22,6 @@
     <td valign="top">
     Email: thom at kode4food it<br/>
       LinkedIn.com/<a href="https://www.linkedin.com/in/kode4food/">kode4food</a><br/>
-Soundcloud.com/<a href="https://www.soundcloud.com/kode4food/">kode4food</a><br/>      
     </td>
   </tr>
 </table>
