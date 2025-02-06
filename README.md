@@ -1,7 +1,7 @@
 <table cellpadding="0" cellspacing="5">
   <tr>
     <td nowrap valign="top" align="right"><b>About</b></td>
-    <td valign="top">I serve medium-to-large organizations through the scale-up phase of growth. I value people, culture, collaboration, customers, code, and processes. In that order. I code in whatever language best suits the job, but mostly in Go.</td>
+    <td valign="top">I serve small-to-medium enterprises through the scale-up phase of growth. I value people, culture, collaboration, customers, code, and processes. In that order. I code in whatever language best suits the job, but mostly in Go.</td>
   </tr>  
   <tr>
     <td nowrap valign="top" align="right"><b>Location</b></td>
