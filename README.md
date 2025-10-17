@@ -11,7 +11,7 @@
     <td nowrap valign="top" align="right"><b>Projects</b></td>
     <td valign="top">
       <a href="https://www.ale-lang.org/">Ale</a>: A Lisp Environment for <a href="http://golang.org/">Go</a> applications<br/>
-      <a href="https://www.github.com/caravan">Caravan</a>: A set of in-process message streaming tools for <a href="http://golang.org/">Go</a> applications
+      <a href="https://www.github.com/kode4food/caravan">Caravan</a>: A set of in-process message streaming tools for <a href="http://golang.org/">Go</a> applications
     </td>
   </tr>
   <tr>
