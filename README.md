@@ -1,6 +1,6 @@
 <table cellpadding="5" cellspacing="0">
   <tr>
-    <td nowrap align="right"><b>About</b></td>
+    <td nowrap valign="top" align="right"><b>About</b></td>
     <td colspan="3">
       I serve small-to-medium enterprises through the scale-up phase of growth.
       I value people, culture, collaboration, customers, code, and processes.
@@ -9,7 +9,7 @@
   </tr>
 
   <tr>
-    <td nowrap align="right"><b>Location</b></td>
+    <td nowrap valign="top" align="right"><b>Location</b></td>
     <td colspan="3">Zürich, Switzerland</td>
   </tr>
 
@@ -45,7 +45,7 @@
   </tr>
 
   <tr>
-    <td nowrap align="right"><b>Contact</b></td>
+    <td nowrap valign="top" align="right"><b>Contact</b></td>
     <td colspan="3">
       Email: thom at kode4food it<br>
       LinkedIn.com/<a href="https://www.linkedin.com/in/kode4food/">kode4food</a>
