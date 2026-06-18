@@ -13,7 +13,7 @@
       <a href="https://www.ale-lang.org/">Ale</a>: A Lisp Environment for <a href="http://golang.org/">Go</a> applications<br/>
       <a href="https://www.argyll.app/">Argyll</a>: Goal-Driven Orchestrator<br/>
       <a href="https://www.github.com/kode4food/caravan">Caravan</a>: A set of in-process message streaming tools for <a href="http://golang.org/">Go</a> applications<br/>
-      <a href="https://www.github.com/kode4food/timebox">Timebox</a>: Opinionated Event Sourcing with <a href="http://golang.org/">Go</a>
+      <a href="https://www.github.com/kode4food/timebox">Timebox</a>: Opinionated Event Sourcing with <a href="http://golang.org/">Go</a><br/>
       <a href="https://www.github.com/kode4food/toe">toe</a>: Thom's Own Editor for <a href="http://golang.org/">Go</a>
     </td>
   </tr>
