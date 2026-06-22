@@ -23,7 +23,7 @@
   <tr>
     <td nowrap width="64px" align="center"><img src="https://raw.githubusercontent.com/kode4food/argyll/main/web/public/argyll-logo.png" width="32" valign="middle" /></td>
     <td nowrap width="1%"><a href="https://www.argyll.app/"><b>Argyll Orchestrator</b></a></td>
-    <td>Goal-Driven Orchestrator</td>
+    <td>Goal-Driven Orchestration Platform</td>
   </tr>
 
   <tr>
